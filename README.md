@@ -35,5 +35,6 @@ I am always on the lookout for like-minded individuals passionate about the conf
 - Email: atasahn@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ata-%C5%9Fahin-4b240b271/
 - GitHub: ATA-SAHIN
+  
 Thank you for visiting my portfolio. Let's explore the endless possibilities at the nexus of computer science and statistics together!
 
