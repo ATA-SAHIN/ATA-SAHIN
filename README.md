@@ -13,11 +13,11 @@ Part-time since Jun 2026; engineer title from Aug 2026. Maximum 24 hours per wee
 - Build the company’s agentic AI stack with the directors (agents, tool bridges, RAG, QLoRA).
 - Own security of that stack: isolation, encryption, access control, monitoring (prompt injection, tool abuse), incident procedure, and threat modeling.
 
-## MPRA-IDE
+## Kale OS (from MPRA-IDE)
 
-Master’s major paper (supervisor: Professor Miguel Vargas Martin): an AI-native multi-expert IDE on a Code-OSS and Continue.dev fork.
+**Kale OS** is the product: a local agentic IDE. Not production yet; late-stage build.
 
-The submitted capstone met the major-paper requirements (CODE, ITSEC, RESEARCH). The public repos are that system with later development applied (named agents under RA: Coder, Sentinel, Columbus, Librarian). Internally this current build is also called Kale OS.
+It is **MPRA-IDE** after the MITS-AIS major paper (supervisor: Professor Miguel Vargas Martin). The submitted capstone met the paper requirements (CODE, ITSEC, RESEARCH). The current system is that work with later development applied: named agents under RA (Coder, Sentinel, Columbus, Librarian).
 
 - Paper: [Ontario Tech Scholaris](https://ontariotechu.scholaris.ca/items/d357a2fb-3a12-4f14-8e62-c7f4d4d8ea9f)
 - Code: [mpra-ide](https://github.com/ATA-SAHIN/mpra-ide)
@@ -26,7 +26,7 @@ On author-designed domain tasks (capstone evaluation): **+11–19 points** vs th
 
 ## Repos
 
-- [mpra-ide](https://github.com/ATA-SAHIN/mpra-ide) — Code-OSS fork
+- [mpra-ide](https://github.com/ATA-SAHIN/mpra-ide) — Code-OSS fork (Kale OS / MPRA-IDE)
 - [ordinarius-extension](https://github.com/ATA-SAHIN/ordinarius-extension) — Continue.dev fork (expert UI)
 - [ordinarius-lab](https://github.com/ATA-SAHIN/ordinarius-lab) — expert pipeline lab
 
