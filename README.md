@@ -17,10 +17,12 @@ Part-time since Jun 2026; engineer title from Aug 2026. Maximum 24 hours per wee
 
 **Kale OS** is the product: a local agentic IDE. Not production yet; late-stage build.
 
+![Kale OS](kale-os.png)
+
 It is **MPRA-IDE** after the MITS-AIS major paper (supervisor: Professor Miguel Vargas Martin). The submitted capstone met the paper requirements (CODE, ITSEC, RESEARCH). The current system is that work with later development applied: named agents under RA (Coder, Sentinel, Columbus, Librarian).
 
 - Paper: [Ontario Tech Scholaris](https://ontariotechu.scholaris.ca/items/d357a2fb-3a12-4f14-8e62-c7f4d4d8ea9f)
-- Code: [mpra-ide](https://github.com/ATA-SAHIN/mpra-ide)
+- IDE fork: [mpra-ide](https://github.com/ATA-SAHIN/mpra-ide) — cloning that repo does **not** boot Kale OS (engine, Comms, Columbus, Librarian stay private).
 
 On author-designed domain tasks (capstone evaluation): **+11–19 points** vs the base 7B model; multi-expert collaboration **+17% completeness**.
 
