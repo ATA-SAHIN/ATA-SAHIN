@@ -1,6 +1,6 @@
 # Ata Şahin
 
-**Agentic AI & Cybersecurity Engineer** · Syntara Social Inc. · Toronto  
+**Agentic AI & Cybersecurity Engineer** · Syntara Inc. · Toronto  
 MITS-AIS (AI in Security), Ontario Tech · GPA 3.80 / 4.30
 
 [Scholaris](https://ontariotechu.scholaris.ca/items/d357a2fb-3a12-4f14-8e62-c7f4d4d8ea9f) · [mpra-ide](https://github.com/ATA-SAHIN/mpra-ide) · [LinkedIn](https://www.linkedin.com/in/ata-%C5%9Fahin-4b240b271/) · [atasahn@gmail.com](mailto:atasahn@gmail.com)
@@ -19,7 +19,7 @@ Public repos are the **IDE / UI / lab forks**. Cloning them does **not** boot Ka
 
 ## Work
 
-**Syntara Social Inc.** — Agentic AI & Cybersecurity Engineer · Jun 2026 – Present (part-time; engineer title from Aug 2026; max 24 h/week until MITS-AIS completion, then full-time).
+**Syntara Inc.** — Agentic AI & Cybersecurity Engineer · Jun 2026 – Present (part-time; engineer title from Aug 2026; max 24 h/week until MITS-AIS completion, then full-time).
 
 ## Public forks
 
