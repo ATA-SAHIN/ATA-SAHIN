@@ -1,40 +1,38 @@
-# Ata Şahin's Academic and Research Portfolio
+# Ata Şahin
 
-Welcome to my academic and research portfolio on GitHub! I am Ata Şahin, a passionate aspirant for a Master's degree in Computer Science, keen on exploring the symbiosis of Mathematics and Computer Science under the guidance of my esteemed supervisor.
+Agentic AI and cybersecurity engineer at **Syntara Social Inc.** (Toronto).  
+MITS-AIS (AI in Security), Ontario Tech University — GPA 3.80 / 4.30.
 
-## About Me
+I build local multi-agent systems with isolation, access control, human approval, and threat modeling (security for AI), and a security agent that runs BlackArch tools in its own sandbox (AI for security).
 
-I completed my undergraduate education in 2017 at Ege University's Department of Statistics, one of Turkey's respected universities. I graduated with a GPA of 3.53 out of 4, ranking second among all graduates in my department. My dedication and academic excellence were recognized with the “Certificate of High Honour” award from the Ege University Faculty of Science.
+## Current role
 
-With a solid foundation in Statistics, I have delved deeply into Computer Science through elective modules, gaining proficiency in C, C++, Python, and Matlab. My academic journey is marked by a fervent engagement in projects that lie at the intersection of statistics and computing, highlighting the transformative potential of interdisciplinary studies in AI systems applications.
+**Agentic AI & Cybersecurity Engineer — Syntara Social Inc.** (Jun 2026 – Present)  
+Part-time since Jun 2026; engineer title from Aug 2026. Maximum 24 hours per week until MITS-AIS completion; then full-time.
 
-### Projects
+- Build the company’s agentic AI stack with the directors (agents, tool bridges, RAG, QLoRA).
+- Own security of that stack: isolation, encryption, access control, monitoring (prompt injection, tool abuse), incident procedure, and threat modeling.
 
-- **Database Programming in Excel**: Developed a Visual Basic application for computing p-values using the Levene and Brown-Forsythe test, showcasing my ability to bridge statistical analysis with software development.
-- **Optimization Models and Applications**: Explored various optimization methods through Python, including Fibonacci, Newton, and Quasi-Newton methods, applying these techniques in practical scenarios.
-- **Programming in C++**: Designed a program to calculate the integral of functions within specified ranges, utilizing core programming concepts such as structures, loops, and conditionals.
+## MPRA-IDE → Kale OS
 
-### Research Interests
+**MPRA-IDE** is my master’s major paper (supervisor: Professor Miguel Vargas Martin): an AI-native multi-expert IDE (CODE, ITSEC, RESEARCH) on a Code-OSS and Continue.dev fork.
 
-Under the mentorship of my supervisor, I am excited to contribute to two main projects:
+- Paper: [Ontario Tech Scholaris](https://ontariotechu.scholaris.ca/items/d357a2fb-3a12-4f14-8e62-c7f4d4d8ea9f)
+- Code: [mpra-ide](https://github.com/ATA-SAHIN/mpra-ide)
 
-- **Artificial Me (AM)**: Aiming to push the boundaries of Artificial General Intelligence by developing systems that can mimic human cognitive processes.
-- **My Personalized Research Assistant (MPRA)**: Focused on creating an AI-powered tool to revolutionize interdisciplinary research efficiency.
+On author-designed domain tasks: **+11–19 points** vs the base 7B model; multi-expert collaboration **+17% completeness**.
 
-### Future Aspirations
+**Kale OS** is the same system after capstone submission (not supervised): named agents under RA (Coder, Sentinel, Columbus, Librarian).
 
-Guided by my supervisor's expertise in mathematical applications within Computer Science, I aim to leverage my statistical and programming skills to advance research in data mining and machine learning. Our collaborative efforts promise to yield innovative solutions with significant implications for healthcare and education, enhancing patient care and personalizing learning experiences.
+## Repos
 
-## Collaboration and Contributions
+- [mpra-ide](https://github.com/ATA-SAHIN/mpra-ide) — Code-OSS fork (MPRA-IDE v1)
+- [ordinarius-extension](https://github.com/ATA-SAHIN/ordinarius-extension) — Continue.dev fork (expert UI)
+- [ordinarius-lab](https://github.com/ATA-SAHIN/ordinarius-lab) — expert pipeline lab
 
-I am always on the lookout for like-minded individuals passionate about the confluence of computer science, statistics, and their real-world applications. If you are interested in collaborating or wish to contribute to the projects mentioned, feel free to reach out or submit a pull request.
+## Education
 
-## Contact
+- **MITS-AIS**, Ontario Tech University, 2024–2026
+- **B.Sc. Statistics**, Ege University, 2012–2017 (High Honor)
 
-- **Ata Şahin**
-- Email: atasahn@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ata-%C5%9Fahin-4b240b271/
-- GitHub: ATA-SAHIN
-  
-Thank you for visiting my portfolio. Let's explore the endless possibilities at the nexus of computer science and statistics together!
-
+Toronto, ON · [atasahn@gmail.com](mailto:atasahn@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ata-%C5%9Fahin-4b240b271/)
